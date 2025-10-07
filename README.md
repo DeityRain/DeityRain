@@ -1,6 +1,6 @@
 # Hi There, I'm DeityRain 👋
 
-![Profile Banner](https://stockcake.com/i/coding-over-coffee_880417_1019540) <!-- Optional banner image -->
+![Profile Banner](https://images.stockcake.com/public/5/d/a/5da4f4e3-1523-4e22-9436-e550ca88f0f1_large/coding-over-coffee-stockcake.jpg) <!-- Optional banner image -->
 
 ## About Me
 
