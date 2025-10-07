@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi There, I'm DeityRain 👋
 
-<!--
-**DeityRain/DeityRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://images.unsplash.com/photo-1503264116251-35a269479413?ixlib=rb-4.0.1&auto=format&fit=crop&w=1500&q=80) <!-- Optional banner image -->
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about coding and creating innovative projects using **Java**, **Python**, and **C**. Welcome to my GitHub profile! 🚀
+
+## 🛠️ My Skills
+
+| Language | Proficiency | Badge |
+| -------- | ----------- | ------- |
+| Java     | Beginner    | ![Java](https://img.shields`.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| Python   | Beginner	 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| C        | Intermediat | ![C](https://img.shields.io/badge/C-264422?style=for-the-badge&logo=c&logoColor=white) |
+
+## 📊 My Stats
+
+![DeityRain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeityRain&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=radical)
+
+---
+
+Thanks for visiting! 😄 Feel free to star my repositories or reach out.
