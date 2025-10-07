@@ -10,7 +10,7 @@ I'm passionate about coding and creating innovative projects using **Java**, **P
 
 | Language | Proficiency | Badge |
 | -------- | ----------- | ------- |
-| Java     | Beginner    | ![Java](![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| Java     | Beginner    | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 | Python   | Beginner	 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | C        | Intermediat | ![C](https://img.shields.io/badge/C-264422?style=for-the-badge&logo=c&logoColor=white) |
 
