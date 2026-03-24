@@ -4,7 +4,15 @@
 
 ## About Me
 
-I'm passionate about coding and creating innovative projects using **Java**, **Python**, and **C**. Welcome to my GitHub profile! 🚀
+# Hi, I’m DeityRain
+
+C-focused student at 42, building low-level projects and small tools.
+Currently working on algorithmic problem-solving, UNIX/programming fundamentals, and clean project documentation.
+
+## What I’m working on
+- 42 school projects in C
+- Small Python utilities and experiments
+- Improving code structure, README quality, and project presentation
 
 ## 🛠️ My Skills
 
