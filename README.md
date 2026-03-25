@@ -13,6 +13,6 @@ I also build small Python projects when I want to make something lighter or more
 
 ## What I'm working on
 
-- improving my C foundations
+- low-level programming in C
 - writing cleaner project READMEs
 - building a few small projects outside the 42 cursus
