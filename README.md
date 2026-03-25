@@ -1,24 +1,23 @@
-# Hi There, I'm DeityRain 👋
+# Hey, I'm DeityRain
 
-![Profile Banner](https://images.stockcake.com/public/5/d/a/5da4f4e3-1523-4e22-9436-e550ca88f0f1_large/coding-over-coffee-stockcake.jpg) <!-- Optional banner image -->
+I'm a 42 student mainly working in C right now.
 
-## About Me
+Most of my repos are school projects where I’m learning the stuff that actually hurts a bit:
+- parsing
+- memory management
+- signals
+- algorithms
+- graphics with MiniLibX
 
-# Hi, I’m DeityRain
+I also build small Python projects when I want to make something lighter or more visual.
 
-C-focused student at 42, building low-level projects and small tools.
-Currently working on algorithmic problem-solving, UNIX/programming fundamentals, and clean project documentation.
+## What I'm working on
+- improving my C foundations
+- writing cleaner project READMEs
+- building a few small projects outside the 42 cursus
 
-## What I’m working on
-- 42 school projects in C
-- Small Python utilities and experiments
-- Improving code structure, README quality, and project presentation
-
-## Tech Stack
-- **C** — 42 projects, algorithms, low-level programming
-- **Python** — small tools and experiments
-- **Java** — learning / intermediate familiarity
-
----
-
-Thanks for visiting! 😄 Feel free to star my repositories or reach out.
+## Featured repos
+- **FdF** — wireframe renderer in C with MiniLibX
+- **push_swap** — sorting project focused on operation count
+- **MiniTalk** — client/server communication using UNIX signals
+- **pomodoro** — small Python Tkinter timer
