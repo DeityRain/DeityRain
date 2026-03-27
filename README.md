@@ -2,7 +2,7 @@
 
 I'm a 42 student mainly working in C right now.
 
-Most of my repos are school projects where I’m learning the stuff that actually hurts a bit:
+Most of my repos are school projects where I’m learning the fundamentals:
 - parsing
 - memory management
 - signals
