@@ -1,6 +1,6 @@
 # Hey, I'm DeityRain
 
-I'm a 42 student mainly working in C right now.
+I'm a 42 student mainly working in C and CPP right now.
 
 Most of my repos are school projects where I’m learning the fundamentals:
 - parsing
@@ -14,5 +14,6 @@ I also build small Python projects when I want to make something lighter or more
 ## What I'm working on
 
 - low-level programming in C
+- OOP in CPP
 - writing cleaner project READMEs
 - building a few small projects outside the 42 cursus
